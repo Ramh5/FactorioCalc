@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="data"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Ram/Documents/Java libraries/gson-gson-parent-2.8.2.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Ram/Documents/Java libraries/gson-2.6.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
